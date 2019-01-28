@@ -38,9 +38,6 @@
     <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="A1_Q3.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="booking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -54,6 +51,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="testbooking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
