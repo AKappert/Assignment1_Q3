@@ -159,7 +159,7 @@
     <ClInclude Include="time.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="A1_Q3.cpp" />
+    <ClCompile Include="testbooking.cpp" />
     <ClCompile Include="booking.cpp" />
     <ClCompile Include="date.cpp" />
     <ClCompile Include="flight.cpp" />
